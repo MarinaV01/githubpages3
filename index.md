@@ -1,4 +1,3 @@
 ---
-title: bienvenido a mi github
+# title:  bienvenido a mi github
 ---
-
